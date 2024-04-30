@@ -1,0 +1,548 @@
+.website-1 .indie-amp-1 {
+  box-shadow: -4px 4px 0px 0px rgba(0, 0, 0, 0.25);
+  margin-right: 28px;
+  width: 244px;
+  overflow-wrap: break-word;
+  font-family: 'Kumbh Sans';
+  font-weight: 500;
+  font-size: 45px;
+  color: #FFFFFF;
+}
+.website-1 .news {
+  margin-right: 37.3px;
+  overflow-wrap: break-word;
+  font-family: 'Mukta Vaani';
+  font-weight: 500;
+  font-size: 26px;
+  color: #FFFFFF;
+}
+.website-1 .vector-3 {
+  margin: 19px 0 14px 0;
+  width: 22.9px;
+  height: 10px;
+}
+.website-1 .button {
+  box-shadow: -4px 5px 2.7px 1px rgba(0, 0, 0, 0.39);
+  background: #F28482;
+  position: relative;
+  margin: 1px 22.4px 0 0;
+  display: flex;
+  flex-direction: row;
+  padding: 1px 5.7px 0 0;
+  width: 192.6px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.website-1 .upcoming {
+  margin-right: 11.2px;
+  overflow-wrap: break-word;
+  font-family: 'Mukta Vaani';
+  font-weight: 500;
+  font-size: 26px;
+  color: #FFFFFF;
+}
+.website-1 .vector-4 {
+  margin: 19px 0 14px 0;
+  width: 22.9px;
+  height: 10px;
+}
+.website-1 .button-1 {
+  box-shadow: -4px 5px 2.7px 1px rgba(0, 0, 0, 0.39);
+  background: #F28482;
+  position: relative;
+  margin: 1px 23.4px 0 0;
+  display: flex;
+  flex-direction: row;
+  padding: 1px 5.7px 0 0;
+  width: 192.6px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.website-1 .vector-5 {
+  width: 22.9px;
+  height: 10px;
+}
+.website-1 .container-8 {
+  box-shadow: -4px 5px 2.7px 1px rgba(0, 0, 0, 0.39);
+  background: #F28482;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  display: flex;
+  padding: 21px 6.7px 13px 6.7px;
+  width: 192.6px;
+  height: 44px;
+  box-sizing: border-box;
+}
+.website-1 .this-week {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Mukta Vaani';
+  font-weight: 500;
+  font-size: 26px;
+  color: #FFFFFF;
+}
+.website-1 .button-2 {
+  position: relative;
+  display: flex;
+  padding: 2px 1.6px 0 0;
+  width: 192.6px;
+  box-sizing: border-box;
+}
+.website-1 .container-6 {
+  margin: 5px 0 6px 0;
+  display: flex;
+  flex-direction: row;
+  width: 623.6px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.website-1 .vector-6 {
+  box-shadow: -3px 5px 0px 0px rgba(0, 0, 0, 0.25);
+  margin-bottom: 6px;
+  width: 50px;
+  height: 50px;
+}
+.website-1 .search-indie-amp {
+  margin: 0 12px 1.3px 0;
+  display: inline-block;
+  width: 277.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 200;
+  font-size: 20px;
+  color: rgba(46, 47, 47, 0.42);
+}
+.website-1 .vector-2 {
+  width: 23.8px;
+  height: 23.8px;
+}
+.website-1 .search {
+  margin-top: 1.5px;
+  display: flex;
+  width: 23.8px;
+  height: 23.8px;
+  box-sizing: border-box;
+}
+.website-1 .container-11 {
+  margin-bottom: 0.8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 313.3px;
+  box-sizing: border-box;
+}
+.website-1 .line-71 {
+  background: rgba(0, 0, 0, 0.22);
+  align-self: flex-start;
+  width: 283px;
+  height: 1px;
+}
+.website-1 .group-3 {
+  border: 5px solid #D9D9D9;
+  background: #D9D9D9;
+  position: relative;
+  margin: 8px 0;
+  display: flex;
+  flex-direction: column;
+  padding: 6px 7.7px 7px 15px;
+  width: 336px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.website-1 .container-1 {
+  background: #84A59D;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 8px 21px 9px 21px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.website-1 .rectangle-15 {
+  border: 5px solid #F7EDE2;
+  background: #F7EDE2;
+  margin: 16px 0 10px 0;
+  width: 332px;
+  height: 47px;
+}
+.website-1 .container {
+  margin-bottom: 28px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 2310px;
+  box-sizing: border-box;
+}
+.website-1 .rectangle-2 {
+  border-radius: 32px;
+  border: 5px solid #F5CAC3;
+  background: url('assets/images/Rectangle2.png') 50% / cover no-repeat;
+  margin-bottom: 20px;
+  width: 300px;
+  height: 336px;
+}
+.website-1 .reg-lawrences {
+  opacity: 0.6;
+  margin: 0 5px 12px 5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Kumbh Sans';
+  font-weight: 700;
+  font-size: 17px;
+  color: #000000;
+}
+.website-1 .line-2 {
+  background: #000000;
+  margin: 0 1px 3px 1px;
+  align-self: flex-start;
+  width: 156px;
+  height: 2px;
+}
+.website-1 .for-the-second-time-this-year-one-of-reg-lawrences-albums-have-made-it-into-the-charts-explore-how-theyre-keeping-up {
+  overflow-wrap: break-word;
+  font-family: 'Kumbh Sans';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.website-1 .container-16 {
+  background: #F5CAC3;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 5px 18.6px 10px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.website-1 .container-4 {
+  margin-right: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.website-1 .line-1 {
+  margin: 8px 23px 5px 0;
+  width: 0px;
+  height: 464px;
+}
+.website-1 .rectangle-14 {
+  background: url('assets/images/Rectangle11.png') 100%, linear-gradient(#F28482, #F28482);
+  margin: 2px 28px 0 0;
+  width: 332px;
+  height: 475px;
+}
+.website-1 .rectangle-13 {
+  background: url('assets/images/Rectangle11.png') 100%, linear-gradient(#F5CAC3, #F5CAC3);
+  margin: 2px 28px 0 0;
+  width: 330px;
+  height: 475px;
+}
+.website-1 .rectangle-12 {
+  background: url('assets/images/Rectangle11.png') 100%, linear-gradient(#F28482, #F28482);
+  margin-top: 2px;
+  width: 332px;
+  height: 475px;
+}
+.website-1 .container-2 {
+  margin: 0 21px 23px 21px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.website-1 .john-smith {
+  opacity: 0.6;
+  margin: 0 4px 17px 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Kumbh Sans';
+  font-weight: 700;
+  font-size: 17px;
+  color: #000000;
+}
+.website-1 .lorem-ipsumis-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industrys-standard-dummy-text-ever-since-the-1500-swhen-an-unknown-printer-took-agalley-of-type-and-scrambled-it-to-make-atype-specimen-book-it-has-survived-not-only-five-centuries-but-also-the-leap-into-electronic-typesetting-remaining-essentially-unchanged-it-was-popularised-in-the-1960-swith-the-release-of-letraset-sheets-containing-lorem-ipsum-passages-and-more-recently-with-desktop-publishing-software-like-aldus-page-maker-including-versions-of-lorem-ipsum {
+  overflow-wrap: break-word;
+  font-family: 'Kumbh Sans';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.website-1 .container-12 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.website-1 .line-5 {
+  background: #000000;
+  width: 154px;
+  height: 2px;
+}
+.website-1 .container-17 {
+  background: url('assets/images/Image1.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  padding: 0 12px;
+  height: 100%;
+  box-sizing: border-box;
+}
+.website-1 .container-9 {
+  background: #F5CAC3;
+  position: relative;
+  margin-right: 17px;
+  padding: 11px 11px 0 11px;
+  width: 523px;
+  height: 286px;
+  box-sizing: border-box;
+}
+.website-1 .john-smith-1 {
+  opacity: 0.6;
+  margin: 0 4px 10px 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Kumbh Sans';
+  font-weight: 700;
+  font-size: 17px;
+  color: #000000;
+}
+.website-1 .line-6 {
+  background: #000000;
+  margin: 0 1px 5px 1px;
+  align-self: flex-start;
+  width: 156px;
+  height: 2px;
+}
+.website-1 .lorem-ipsumis-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industrys-standard-dummy-text-ever-since-the-1500-swhen-an-unknown-printer-took-agalley-of-type-and-scrambled-it-to-make-atype-specimen-book-it-has-survived-not-only-five-centuries-but-also-the-leap-into-electronic-typesetting-remaining-essentially-unchanged-it-was-popularised-in-the-1960-swith-the-release-of-letraset-sheets-containing {
+  overflow-wrap: break-word;
+  font-family: 'Kumbh Sans';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.website-1 .container-15 {
+  background: #F5CAC3;
+  position: relative;
+  margin-right: 15px;
+  display: flex;
+  flex-direction: column;
+  padding: 11px 21.7px 16px 11px;
+  box-sizing: border-box;
+}
+.website-1 .rectangle-10 {
+  background: url('assets/images/Rectangle11.png') 100%, linear-gradient(#84A59D, #84A59D);
+  margin-right: 16px;
+  width: 276px;
+  height: 286px;
+}
+.website-1 .rectangle-11 {
+  background: url('assets/images/Rectangle11.png') 100%, linear-gradient(#F28482, #F28482);
+  width: 275px;
+  height: 286px;
+}
+.website-1 .container-7 {
+  margin: 0 21px 25px 21px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.website-1 .indie-amp-2024-supporting-artists {
+  margin: 11px 38.7px 12px 0;
+  overflow-wrap: break-word;
+  font-family: 'Kumbh Sans';
+  font-weight: 700;
+  font-size: 18px;
+  color: #F5F5F5;
+}
+.indie-amp-2024-supporting-artists-sub25 {
+  font-family: 'Kumbh Sans';
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.333;
+  color: #F5F5F5;
+}
+.indie-amp-2024-supporting-artists {
+  font-family: 'Kumbh Sans';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.333;
+  color: #F5F5F5;
+}
+.website-1 .line-3 {
+  background: #FFFFFF;
+  margin-right: 35px;
+  width: 2px;
+  height: 67px;
+}
+.website-1 .vector {
+  margin-right: 8px;
+  width: 20px;
+  height: 16.3px;
+}
+.website-1 .indie-amp {
+  margin-bottom: 0.3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Josefin Slab';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.website-1 .container-14 {
+  margin: 0 0 17.7px 1px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.website-1 .vector-1 {
+  margin: 0 7px 0.5px 0;
+  width: 22px;
+  height: 15.5px;
+}
+.website-1 .in-amp {
+  overflow-wrap: break-word;
+  font-family: 'Josefin Slab';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.website-1 .container-3 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.website-1 .group-4 {
+  margin: 5px 29.4px 12px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.website-1 .line-7 {
+  background: #FFFFFF;
+  margin-right: 20px;
+  width: 2px;
+  height: 67px;
+}
+.website-1 .upper-thrum-183185-rochdale-road-ripponden-hx-64-ll {
+  margin-bottom: 10px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Josefin Slab';
+  font-weight: 600;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.website-1 .indie-amp-uk {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Josefin Slab';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.website-1 .container-5 {
+  margin: 5px 12.2px 20px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.website-1 .line-8 {
+  background: #FFFFFF;
+  margin-right: 13px;
+  width: 2px;
+  height: 67px;
+}
+.website-1 .hyperlink-1 {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'League Spartan';
+  font-weight: 500;
+  font-size: 16px;
+  color: #F28482;
+}
+.website-1 .hyperlink-12 {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'League Spartan';
+  font-weight: 500;
+  font-size: 16px;
+  color: #F28482;
+}
+.website-1 .hyperlink-14 {
+  overflow-wrap: break-word;
+  font-family: 'League Spartan';
+  font-weight: 500;
+  font-size: 16px;
+  color: #F28482;
+}
+.website-1 .container-13 {
+  margin: 5px 6.9px 13px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.website-1 .hyperlink-11 {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'League Spartan';
+  font-weight: 500;
+  font-size: 16px;
+  color: #F28482;
+}
+.website-1 .hyperlink-13 {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'League Spartan';
+  font-weight: 500;
+  font-size: 16px;
+  color: #F28482;
+}
+.website-1 .hyperlink-15 {
+  overflow-wrap: break-word;
+  font-family: 'League Spartan';
+  font-weight: 500;
+  font-size: 16px;
+  color: #F28482;
+}
+.website-1 .container-10 {
+  margin: 5px 0 13px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.website-1 .rectangle-4 {
+  background: #2E2F2F;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 21px 0 13px 25px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.website-1 {
+  background: #F7EDE2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  box-sizing: border-box;
+}
